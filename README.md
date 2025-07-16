@@ -26,7 +26,7 @@ Este projeto é uma aplicação Java simples para gerenciamento de uma lista tel
    Conecte ao MySQL e execute os comandos abaixo:
 
    ```sql
-   CREATE DATABASE ListaTelefonica CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+   CREATE DATABASE ListaTelefonica;
 
    USE ListaTelefonica;
 
